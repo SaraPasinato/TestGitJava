@@ -1,7 +1,5 @@
 package Esercizi;
 
-import Esercizi.PangramChecker;
-
 public class PangramTest {
 
     public static void main(String[] args) {
